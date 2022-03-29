@@ -1,0 +1,1 @@
+# Opposites attract: If Timmy's flower has odd no of petals and Sarah's flower has even no of petals, they are in love. Also, if Timmy's even and Sarah's odd, they are in love. If not, they are not in love
